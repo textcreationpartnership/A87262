@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God save King Charles. Ane information of the publick proceedings of the Kingdom of Scotland, and their armies. In pursuance of this most necessar and pious engadgement for religion, King, and Kingdoms.</title>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87262</idno><idno type="EEBO-CITATION">45578379</idno>
+  <idno type="VID">172302</idno>
+  <idno type="EEBO-PROQUEST">2248528065</idno>
+  
+            <idno type="STC">Wing I171</idno>
+            <idno type="STC">ESTC R223304</idno>
+            <idno type="OCLC">45578379</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2624:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God save King Charles. Ane information of the publick proceedings of the Kingdom of Scotland, and their armies. In pursuance of this most necessar and pious engadgement for religion, King, and Kingdoms.</title>
+               </titleStmt>
+               <extent>14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Page 14 dated: Edinb. 16. August 1648.</note>
+                  <note>Royal arms on p. 1.</note>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:172302:1"/>
+            <pb n="1" facs="tcp:172302:1"/>
+            <opener>GOD SAVE KING CHARLES.</opener>
+            <head>Ane INFORMATION of the publick Proceedings of the Kingdom of SCOTLAND, and their ARMIES.</head>
+            <head type="sub">In pursuance of This most necessar and pious Engadgement for <hi>RELIGION, KING,</hi> and <hi>KINGDOMS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been in all ages the constant endeavour of the Enemies of Religion and Government, to ma<g ref="char:EOLhyphen"/>ligne and mis-represent the proceedings of those entrusted with the managing of publick affairs: Neither ever was this seditious way pursued with more cun<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:172302:2"/>and care, then at this time, by a number of dis-affected and dis-contented persons, who finding themselves disap<g ref="char:EOLhyphen"/>pointed of their own by-ends, Do labour so far as in them lyeth, to defame and traduce the publick Proceedings of this Kingdom for the good of Religion, the rescue and re-esta<g ref="char:EOLhyphen"/>blishment of the King, and the peace and happines of these Kingdomes; and to poison (if it were possible) the loyaltie and affections of his Majesties good Subjects. Wherefore it is thought fit, That for the un-deceiving of such as are apt to be mis-led with reports, and for satisfaction to the King<g ref="char:EOLhyphen"/>dom, There shall go forth weekly, or once every fourtnight at furthest, a true accompt of the Publick Proceedings of this Kingdom and their Armies.</p>
+            <p>The Estates of Parliament finding, that Religion, the Kings Person and Authoritie, and the safetie of the King<g ref="char:EOLhyphen"/>dome, were in danger to be over-thrown by the Sectaries in <hi>England,</hi> and their favourers and adherents in both King<g ref="char:EOLhyphen"/>domes: And that the just desires of this Kingdom in behalf of all these, were slighted and neglected; Gave orders for a Levie, and emitted their Declarations, containing the grounds and reasons thereof, whilks being dispersed through the Countrey, were generally embraced with a great deal of cheerfulnesse and affection, and in a very short time a consi<g ref="char:EOLhyphen"/>derable Army was put on foot, without the least appearance of opposition: Except that some ignorant and seduced people in the West were drawn together at <hi>Mauchleen moore,</hi> to the number of 2000. and above: But were that same very day scattered and supprest by six small Troups, commanded by Liutenant Generall <hi>Middleton.</hi> And then the resolutions of the Parliament contained in their Declarations, being tru<g ref="char:EOLhyphen"/>ly represaented to them, they were so far convinced of the ne<g ref="char:EOLhyphen"/>cessity and lawfulnesse thereof; Of the wickednesse and dis<g ref="char:EOLhyphen"/>loyaltie
+<pb n="3" facs="tcp:172302:2"/>loyaltie of their own wayes, and of the Gallantrie and Mer<g ref="char:EOLhyphen"/>cie of these Noble Officers that came against them, That they conceived themselves obliged, to give publick testimo<g ref="char:EOLhyphen"/>nie thereof. And therefore many of the Officers, Souldiours and others, did willingly offer an acknowledgment under their hands, which was sent in to the Committee of Estates, and for satisfaction of the Countrey, is here exactly set down.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimony">
+                        <p>
+                           <hi>WEE under-subscrivers, Do with all submission and inge<g ref="char:EOLhyphen"/>nuitie, acknowledge that by the instigation and persuasion of some, wee were unhappily brought to a violent opposition of the orders of this present Parliament: Which opposition wee acknow<g ref="char:EOLhyphen"/>ledge to be a most horrid</hi> Rebellion, <hi>deserving the execution of the strictest justice. Therefore in the presence of Almightie GOD, Wee do solemnly</hi> Swear, <hi>That faithfully and efauldly to the utmost of our power wee shall joyn and concurre in the mainte<g ref="char:EOLhyphen"/>nance of the freedome and lawfulnesse of this present Parliament, and in the advancement and assistance of the execution, obedience, and observation of the Acts and Constitutions thereof, as the most fit and necessary remedies of the by-gone and present evils and distractions of this Kirk and Kingdom, and for the preserva<g ref="char:EOLhyphen"/>tion of Religion, as it is now established, and of the Lawes and Li<g ref="char:EOLhyphen"/>berties of the Kingdom, and of his Majesties authoritie.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Witnes our subscriptions at</hi> Air, <date>19. <hi>June</hi> 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this, some tryall being taken of the occasion of this unlawfull meeting, it was certainly informed, that diverse Ministers did not only draw them together, but by their ex<g ref="char:EOLhyphen"/>hortations and prayers forced them to stay and fight: And for their encouragement, some of the Ministers clad them<g ref="char:EOLhyphen"/>selves in gray, and led on a Troup of Horse, but were there<g ref="char:EOLhyphen"/>after
+<pb n="4" facs="tcp:172302:3"/>taken in the field, with their swords in their hands. Whereupon summonds were direct against them, to appear and answer before the Committee of Estates, under pain of Treason: But three of them being conscious of their own guiltinesse, though twise summoned and called (a favour not ordinar in the like cases) have refused to compeir and answer. A notable example of the obedience due by Mini<g ref="char:EOLhyphen"/>sters to the Civill Magistrat. Is not this the great designe now in hand? <hi>Ex ungue leonem.</hi>
+            </p>
+            <p>By this time that the Insurrection in the West wes sup<g ref="char:EOLhyphen"/>prest, The Army of Sectaries, under the command of Colo<g ref="char:EOLhyphen"/>nell <hi>Lambert,</hi> was (upon correspondence and call of some who had the speciall hand in the meeting at <hi>Machleene Moor</hi>) upon the Borders of this Kingdom: <hi>Berwick</hi> and <hi>Carlile</hi> were like to be surprised by them: And Invitations were sent to Us from many of <hi>England</hi> in Covenant with US, desiring Our assistance. Whereupon Our Army the 8. of <hi>July,</hi> did by publick warrand, enter into the Kingdom of <hi>England,</hi> and the next day the Infantrie marched through the City of <hi>Car<g ref="char:EOLhyphen"/>lile,</hi> the Keyes whereof were delivered to His Grace the Duke of <hi>Hamilton,</hi> Lord Generall of the Army, who march<g ref="char:EOLhyphen"/>ed that night toward <hi>Thirsby,</hi> about three miles from <hi>Rosse</hi> Castle, which <hi>Lambert</hi> the night before had burnt, and then retired to <hi>Pirreth.</hi> The <hi>English</hi> in these places did welcome the <hi>Scots</hi> Army, as the Instruments of their deliverie from the greatest misery that ever people groaned under.</p>
+            <p>The Army lay at <hi>Thirsby</hi> and <hi>Croston hal</hi> for some few dayes: During which time the Declaration of the Commit<g ref="char:EOLhyphen"/>tee of Estates, to their Brethren in <hi>England</hi> was resolved on, and a Messenger sent from both Committees with Copies of it, and Letters to the Kings Majesty, and to the Parliament of <hi>England.</hi> The Declaration is already printed: Therefore the Copy of the Letters shall be here set down.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:172302:3"/>
+                  <opener>
+                     <salute>May it please Your most Sacred Majesty,</salute>
+                  </opener>
+                  <p>Your Majesties Subjects of Your Kingdom of <hi>Scotland,</hi> upon the late return of their Army from <hi>England,</hi> were confident that a specdie and effectiall course would then have been taken for setling and securing of Religion, according to the Cove<g ref="char:EOLhyphen"/>nant, For establishing Your Majesty in Your just Rights, For dis<g ref="char:EOLhyphen"/>banding of all Armies, and setling a religious and solid Peace: But so powerfully have the Sectaries in <hi>England,</hi> and their adhe<g ref="char:EOLhyphen"/>rents opposed the endeavours of the Honourable Houses of Parlia<g ref="char:EOLhyphen"/>ment for a happy composure of differences, as Wee finde Religion, Your Majesties sacred Person and Government, and the peace of Your Kingdomes in greater danger than ever. And though Wee have laboured in an amicable way by Treaties and Messages, to ob<g ref="char:EOLhyphen"/>tain satisfaction to our necessary desires, yet they have proved so in-effectuall, as this Kingdom can no longer (as unconcerned spe<g ref="char:EOLhyphen"/>ctators) be witnes to the ruine and losse of what (by the oath of God which lyeth upon them) they are bound to endeavour to preserve. And therefore they are again in Armes in <hi>England,</hi> To prosecate their duties to God, Your Majesty, and their oppressed Brethren, upon the grounds contained in their Declaration, which Wee have presumed herewith to send to Your Majesty. And although wee for<g ref="char:EOLhyphen"/>bear to presse any thing from Your Majesty, being in the said condi<g ref="char:EOLhyphen"/>tion, and under the base restraint You are now into, yet Wee are confident when it shall please God to remove that judgement from Us, and to restore You to a condition, To Treat with Honour, Free<g ref="char:EOLhyphen"/>dom and Safetie with Your Parliaments <hi>(for the obtaining whereof, Wee are resolved to hazard our lives and fortunes)</hi> that he will encline Your heart, to satisfie their just desires, That the cruell noise of War may no longer be heard in the Land, The Kingdom of Christ may be advanced, Your Majesties Throne and
+<pb n="6" facs="tcp:172302:4"/>Government, perpetuated in your Sacred Person, and Royall Posterity: And righteousnesse and peace may be established in Your Majesties Dominions, which is and shall be the prayers and endeavours of,</p>
+                  <closer>
+                     <signed>Your Majesties most humble, most obedient and most faithfull Sub<g ref="char:EOLhyphen"/>jects and Servants.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Committees Letter to the Parlia<g ref="char:EOLhyphen"/>ment of ENGLAND.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>AS the Parliament of this Kingdom, their Committees and Armies did cheerfully engage in this cause with your Lordships, even in your lowest condition, and faithfully performed their parts in the Solemn League and Covenant; So (notwithstanding the great and imminent dangers to Religion, the Kings Majestie, and the peace and happinesse of these King<g ref="char:EOLhyphen"/>doms from the prevailing party of Sectaries and their adherents in your Councels and Armies) they have been very tender of doing any thing that might give the least occasion of mistake betwixt the Nations. And altho the many injuries that this Kingdom and these employed by them hath received from that prevailing party; The violation of Covenant and Treaties, and all other eugage<g ref="char:EOLhyphen"/>ments; The base usage and imprisonment of our King might have made a more brisk way of proceeding against them, warrantable and justisiable before God and man: Yet the Parliament did assay if it were possible in an amicable way to remove differences, and to provide for the security of Religion, the King, and Kingdoms.
+<pb n="7" facs="tcp:172302:4"/>And therefore as by their Commissioners they had long endea<g ref="char:EOLhyphen"/>voured (tho without successe) by Treaty, To give and receive satisfaction: So by their demands of the 26. of <hi>April,</hi> They again moved for satisfaction in that fair and brotherly way, as might most evident their reall inclinations to peace. But we are sorry to finde the Councells and power of Sectaries still so pre<g ref="char:EOLhyphen"/>valent, That not so much as an answer is returned to the necessary and just desires of the Parliament, except a generall remit to a further satisfaction from your Commissioners here: Which we have with great patience expected, but not yet received: There<g ref="char:EOLhyphen"/>fore we are necessitate to return our Army again into <hi>England,</hi> for the good of Religion, and His Majesties Rescue, in pursuance of the Solemn League and Covenant, wherein both Kingdoms are equally engaged, and their joynt Declaration of the 6. of <hi>January 1644.</hi> Being also invited thereunto by many of that Kingdom joyned in Covenant with Us. And for clearing the grounds and ends of this undertaking, Wee have emitted the enclosed Decla<g ref="char:EOLhyphen"/>ration, which we hope will satisfie the Honourable Houses of Par<g ref="char:EOLhyphen"/>liament, and all our Brethren of <hi>England,</hi> with whom it is our Resolution, and shall be our constant study to continue a firme union and brotherly correspondence. We shall not repeat what is there declared, but desire your Lordships speedily to take into consideration Our demands therein contained (which we are con<g ref="char:EOLhyphen"/>fident, you will finde agreeable to our former principles) That upon the granting and performing of them a lasting and well grounded Peace may be setled, and Our Forces recalled, which is the most earnest desire of this Kingdom and their Armies and Committees.</p>
+                  <closer/>
+                  <postscript>
+                     <head>POSTSCRIPT,</head>
+                     <p>We have sent the Bearer Master <hi>George Halybrunton</hi> to His Majestie, that from himself, Wee may hear his condi<g ref="char:EOLhyphen"/>tion; who with our Letter is to deliver to him a dupli<g ref="char:EOLhyphen"/>cate of our Declaration.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:172302:5"/>
+            <p> The Army at this time sent a most grave and pious Sup<g ref="char:EOLhyphen"/>plication to the Generall Assembly for Ministers to be sent up to them: And the Committee of Estates seconded that Supplication with most earnest and renewed desires, That Generall Assembly would apply themselves for removing the differences betwixt the State and Church, And with an offer and full assurance of granting all the security to Re<g ref="char:EOLhyphen"/>ligion that in reason could be demanded from the Commit<g ref="char:EOLhyphen"/>tees or from the Army; But this was not pleasing to the As<g ref="char:EOLhyphen"/>sembly, who after the exchange of some Papers betwixt the Committee and them did proceed to their declaration of the last of <hi>July,</hi> Which with the Committees Observati<g ref="char:EOLhyphen"/>ons thereupon (the full Answer not being as yet in readiness) is left, to the consideration of every Judicious and unpre<g ref="char:EOLhyphen"/>judiced Reader.</p>
+            <p>Upon the 17. day the Army followed on to <hi>Aplebee; Lamberts</hi> out guards consisting of 400. of <hi>Cromwell</hi> and Colonell <hi>Harrisoas</hi> Regiments and their best Horse, getting notice of our approach, retired towards the Town; But were quickly pursued by the Lord Generals own Troop, and Lieut. Generall <hi>Middletons</hi> Troop, who put them to disor<g ref="char:EOLhyphen"/>der, killed divers, and took some prisoners, and chased the rest in so great haste to the Bridge, that some of them run over it: Their Barricadoes and hedges about the bridge was lined with Musketiers, who played hotly on our Cavalrie, but they stood gallantly to it, and with their very Pistolls, charged in upon them, and there also killed sundry and took some prisoners, whereof Capt. <hi>Cromwells</hi> Lieutenant was one, and Colonell <hi>Harrison</hi> and divers other Officers were ill hurt: Yet this small advantage was like to have been purchased at too dear a rate, tho it had been with the over<g ref="char:EOLhyphen"/>throw of all <hi>Lamberts</hi> forces: For the Right Honourable the
+<pb n="9" facs="tcp:172302:5"/>Earl of <hi>Callander</hi> was shot in the left side, the Bullet pierced his clothes and rufled his skin, But praised by God to no hazard.</p>
+            <p>About night our commanded party of Musketiers come up, all wet and dragled by a long march in foul weather, and through deep waters; But how soon they come within sight of the Enemy, They were so born up, with the sense of the justnesse of the Cause they maintained, that with fresh vi<g ref="char:EOLhyphen"/>gour and alacrity, they went to it, and beat the enemy from their hedges to the Bridge, whilk was guarded with <hi>Fairfax</hi> own Regiment. About midnight <hi>Lambert</hi> drew off all his Forces towards <hi>Lancashire,</hi> Garrisoned the Castle of <hi>Apleby</hi> (which as also <hi>Cockermouth</hi> are both since rendred to the Lord Dukes Grace) and burnt the houses about it: Our Ar<g ref="char:EOLhyphen"/>my was so wearied with foul weather, and long marches, that it was resolved they should refresh themselves at <hi>Apleby</hi> for a few dayes.</p>
+            <p>Vpon the 19. of <hi>July,</hi> A part of our Army entred the Town of <hi>Berwick</hi> which is now Garisond with one thou<g ref="char:EOLhyphen"/>sand Foot, who have 500. Horse, and a 100. Dragouners to attend them: The Command and Government of that 'Town and Garison is entrusted to the Lord Duke of <hi>Hamil<g ref="char:EOLhyphen"/>ton</hi> and his Deputies, And that of <hi>Carlile</hi> to the Earle of <hi>Callander</hi> and his Deputies.</p>
+            <p>The Forces desired from <hi>Ireland,</hi> are now come over, to the number of 1200. Horse, and 2500. Foot chosen out of the best experienced Souldjers of that Army: They are now joyned with the Forces from this Kingdom.</p>
+            <p>The Committee of Estates finding it necessary for car<g ref="char:EOLhyphen"/>rying on this great Work: That the Prince his Highnesse should be Invited, To come and Countenance the Ende<g ref="char:EOLhyphen"/>vours of this Kingdom for RELIGION, and His Royall
+<pb n="10" facs="tcp:172302:6"/>Fathers Rescue and Reestablishment. Have employed the Earl of <hi>Lauderdail</hi> in Commission to that effect, And have sent a Letter to the Prince, which is here set down.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it please Your Highnes,</salute>
+                  </opener>
+                  <p>
+                     <hi>AMongst all the Calamities and Miseries, which this Na<g ref="char:EOLhyphen"/>tion hath these late yeers wrestled under: None doth more deeply wound and afflict Us (next to His Majesties your Royall Father His Sad Condition and restraint) then your Highnesse long absence from this Kingdom, whereunto (by Gods mercie, and a long descent from your many Royal Progenitours) your right and title is so just and unquestionable. And seeing the Forces of this Kingdom are now again in</hi> England, <hi>in pursuance of their duties to Religion, and for His Majesties rescue: Wee (the Committee of Estates of Parliament entrusted by them with the managing of the publick Affairs of this Kingdom, under His Majesties Govern<g ref="char:EOLhyphen"/>ment) Do presume humbly to beg, That your Highnes would be pleased to honour and countenance with your presence &amp; assistance Our pious and loyall endeavours for Religion, and your Royall Fa<g ref="char:EOLhyphen"/>thers reestablishment on his Throne with all his just power, which Wee look upon as the most eminent and hopefull means of strength<g ref="char:EOLhyphen"/>ning and Uniting Us in this great Work, being confident, that if it shall please God to honour Us with being instrumentall in His Ma<g ref="char:EOLhyphen"/>jesties rescue, your Highnes will effectually apply your self to pro<g ref="char:EOLhyphen"/>cure from him just sat is faction to the desires of the Parliaments, and these entrusted by them in both Kingdoms. And if your High<g ref="char:EOLhyphen"/>nes shall be pleased to grant this Our humble desire, and entrust your Person amongst Us, Wee do engadge the Publick Faith of this Kingdom, for your being in Honour, Freedom and Safety during your abode with Us in</hi> Scotland, <hi>or with Our Army and Forces now in</hi> England. <hi>And that your Highnesse shall have a full
+<pb n="11" facs="tcp:172302:6"/>and entire libertie to remove from Us or them, when and whither your Highnes shall think fit.</hi>
+                  </p>
+                  <p>
+                     <hi>These Our humble desires Wee have presumed to offer to your Highnes by the Right Honourable the Earl of</hi> Lauderdale <hi>(a Person of great Honour and Loyaltie, and who hath been very emi<g ref="char:EOLhyphen"/>nently Instrumentall and usefull in this present engagement) who is fully instructed and authorised by Us in every thing concerning this Service. To whom Wee beg your Highnes will be pleased to give trust to all shall be by him presented to you from.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Highnes most humble, most obedient, and most faithful servants.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>That the Prince his Highnes may at his comming be at<g ref="char:EOLhyphen"/>tended with honour and respect, and that the Peace of the Kingdom may be secured from invasion or insurrection, A new Levie of Horse is agreed unto, and orders sent through the Kingdom for that effect. Upon the consideration where<g ref="char:EOLhyphen"/>of, and of the present condition of affairs; some of the most considerable Shires, have made offer to the Committee of Estates, not onely to be carefull in the exact putting out of their Levie, and performing all other publick duties; But also that they will presently put themselves in a Posture of Armes, and that they shal be ready upon twelve houres call, To come every man betwixt 60 and 16. To hazard their lyves and fortunes for promoving of this Cause, and sup<g ref="char:EOLhyphen"/>pressing of all opposition that shall appear within the King<g ref="char:EOLhyphen"/>dom against the same.</p>
+            <p>The Committee have accepted this offer, as a reall testi<g ref="char:EOLhyphen"/>monie of their Pietie to GOD, loyaltie to the Kings Ma<g ref="char:EOLhyphen"/>jesty (in this his sad and low condition) and affection to the true liberties of their native Kingdome: Have returned to
+<pb n="12" facs="tcp:172302:7"/>them thankes, with authoritie to act according to their of fer; and publick assurance, that when by the blessing of GOD the troubles of this Kingdom shall be put to an end, this their dutifull and gallant carriage will be thankfully ac<g ref="char:EOLhyphen"/>knowledged by his Majesty and Estates of Parliament.</p>
+            <p>In the beginning of this moneth, the Army marched to <hi>Kendall;</hi> and some of the Cavalry quartered at <hi>Kirkby</hi> and <hi>Langdall,</hi> and others into <hi>Yorkeshire.</hi> So they have intirely cleared two Counties of the enemie.</p>
+            <p>Upon their entrie into <hi>Lancashire,</hi> a considerable partie of the Gentrie met and wrote a Letter to the Lord Dukes Grace, wherein they acknowledge this Army to be un<g ref="char:EOLhyphen"/>der GOD the principall means to settle their Religion, to relieve their gracious Soveraign from Imprisonment, and to free them from the unsupportable burdens they have groa<g ref="char:EOLhyphen"/>ned under, and have promised most willingly to send in all necessar provisions to the Army, and to be every way else assisting for carrying on this great Work.</p>
+            <p>This Generall Assembly rose on <hi>Saturday</hi> last, who will no doubt make their proceedings known to the Kingdom, yet it will be no encroachment on their Liberties, tho it be made known here that they have suspended from the exer<g ref="char:EOLhyphen"/>cise of the Ministry, The most Reverend, Learned and Pious Fathers of this Church, Mr. <hi>Andro Ramsay,</hi> Doctor <hi>Barron</hi> and Mr. <hi>William Colvill;</hi> And have indulged the power of preaching to <hi>Johu Gillon</hi> who by his by gone 50. yeers stu<g ref="char:EOLhyphen"/>die hath attained to that proficiency of learning, that all Books and Languages are alike understood by him, except they be of his mother tongue.</p>
+            <p>Vpon <hi>Munday</hi> the 7. of this moneth, the Earl of <hi>Lau<g ref="char:EOLhyphen"/>derdail</hi> arrived at the mouth of the River of <hi>Masse</hi> in <hi>Holland,</hi> But finding the Prince his Highnesse gone from thence with
+<pb n="13" facs="tcp:172302:7"/>the Fleet to the <hi>Downes,</hi> he immediatly addrest himself thi<g ref="char:EOLhyphen"/>ther; where-upon the <hi>Thursday</hi> following he arrived, And had from the Prince his Highness a very gracious reception both to the business he wes employed in, and to his own person. His Highness stay in the <hi>Downes</hi> (where he is as yet with 18. Ships of the Royall Navy) is chiefly in expectati<g ref="char:EOLhyphen"/>on of an answer to a Message he sent to the City of <hi>London,</hi> which being now at the Presse shall not be here repeated.</p>
+            <p>Onely this much we are advertised from <hi>London,</hi> That it hath had a very extraordinary influence upon very many in the City. And tho the House of Commons have ordered, that no answer shall be returned thereunto. Yet it is like they will fully comply with the desires of his Highnesse both from a sense they have of their duties to him, and of their ovvn prejudice from an absolute interruption of all their for<g ref="char:EOLhyphen"/>mer traffique and commerce: for his Highnesse hath already seized on three rich Ships, estimate above 100000. pounds <hi>Stirling,</hi> But hath declared his readinesse both to restore them and to preserve the free Trade of the City in the future upon their contributing the ordinary allovvance appointed for maintaining the Royall Navy.</p>
+            <p>The House have sent the Earl of <hi>Midlesex,</hi> Sir <hi>John Hipsley,</hi> and Master <hi>Bulklie</hi> to his Majestie to the Ile of <hi>Wight,</hi> To shew him, that they have granted him a Personall Treaty there; with Honour Freedom and Safety: But how can his Majestie understand himself in Honour, Freedom and Safe<g ref="char:EOLhyphen"/>ty, while he is confined in that Island, environed with their guards of Sectaries, and his faithfull Subjects and Servants debarred accesse to him.</p>
+            <p>Upon <hi>Tuesday</hi> the 1. of <hi>August,</hi> The House of Commons ordered that Major <hi>Rolph</hi> (who is accused by famous witness upon oath to have undertaine to poyson or kill the King) to
+<pb n="14" facs="tcp:172302:8"/>be put to liberty upon Bail; A proceedor without example; for none accused of Treason, were ever till now capable of that favour.</p>
+            <p>Major <hi>Huntington</hi> who hithertils hath had the Command of Lieut. Generall <hi>Cromwells</hi> Regiment of horse hath laid down his Commission, and given in to the house very high accusations against the said Lieutenant General, and his son in Law Commissary General <hi>Ireton.</hi>
+            </p>
+            <p>
+               <hi>Colchester</hi> doth still holdout gallantly, and no great appea<g ref="char:EOLhyphen"/>rance that in haste it will be reduced.</p>
+            <p>
+               <hi>Scarrisbrough</hi> Castle commanded by Colonel <hi>Boynton</hi> hath declared for the King.</p>
+            <p>The Castle of <hi>Tinmouth</hi> did the like upon the 9. of this moneth: But Colonell <hi>Lilburn</hi> who commanded there, not having sufficiently prepared his Souldiers, was (upon the first appearanee of Forces from <hi>Newcastle</hi>) deserted by them, And left almost alone to maintain these great works, which singly he did for a long time with great resolution and gal<g ref="char:EOLhyphen"/>lantry: And choose rather honourably to fall in that loyall action, then live longer under the Tyrannie and oppression of the Sectaries.</p>
+            <p>The Lord <hi>Byron</hi> is now up in Armes for the <hi>King</hi> in North<g ref="char:EOLhyphen"/>wales, and hath a considerable force together.</p>
+            <p>The House of Commons have Voted the sending of a Declaration to the Kirk of <hi>Scotland.</hi> But the House of Peers would neither joyn with them therein; nor in their Votes wherein they declared the Armies of this Kingdom Enemies.</p>
+            <p>We have this week been forced, to exceed the bounds of one sheet vvhich hereafter vve intend to limit our selves unto.</p>
+            <closer>
+               <dateline>
+                  <hi>Edinb.</hi>
+                  <date>16. <hi>August</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:172302:8"/>
+            <p>
+               <hi>Give deliverances O Lord unto the King, And shew mercie to thine Anoynted, Even to</hi> KING CHARLES <hi>and his seed for ever.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
